@@ -180,6 +180,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/David/pgm/html/html.sublime-workspace",
 		"/C/Users/hand/pgm/html/doc1.html",
 		"/C/Users/hand/pgm/potayto/.git/config",
 		"/C/Users/hand/style1.css",
@@ -485,8 +486,8 @@
 						"selection":
 						[
 							[
-								71,
-								71
+								29,
+								29
 							]
 						],
 						"settings":
@@ -608,6 +609,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"al",
+				"/C/Users/David/pgm/algs4/algs4.sublime-project"
+			],
 			[
 				"no",
 				"/C/Users/hand/Documents/notes.sublime-project"
